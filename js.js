@@ -42,7 +42,7 @@ else if(score>=70) {
 else if(score >= 60) {
     console.log("The Graid is D");
 }
-else if (score <=59){
+else  (score <=59){
     console.log("The Graid is F");
 }
 }
